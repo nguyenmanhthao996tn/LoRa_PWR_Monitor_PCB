@@ -3,9 +3,9 @@
 Welcome to the **LoRa PWR Monitor Board** repository!  
 
 This repository contains:
-- PCB design(s)
-- Source code
-- Documentation  
+- `./pcb/`: PCB design(s)
+- `./src/`: Source code
+- `./docs/`: Documentation  
 
 ## Purpose
 
