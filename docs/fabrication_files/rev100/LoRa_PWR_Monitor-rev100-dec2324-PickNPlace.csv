@@ -1,0 +1,59 @@
+Altium Designer Pick and Place Locations
+D:\mtnguyen\workspace\LoRa_PWR_Monitor\pcb\LoRa_PWR_Monitor\Project Outputs for LoRa_PWR_Monitor\Generate Files\Pick Place\Pick Place for LoRa_PWR_Monitor.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       23/12/24
+Time:       05:51
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"J_PWR_IN","1729128","TopLayer","PHOE-1729128-2_V","80.0000mm","75.0000mm","270","PCB Terminal Block, 13.5 A, 400 V, 2-Pin THD, RoHS, Bulk"
+"U3","INA3221AIRGVR","TopLayer","RGV0016A_V","100.0000mm","78.0000mm","180","Triple Channel Shunt and Bus Voltage Monitor, 120 dB, 2.7 to 5.5 V, -40 to 125 degC, 16-Pin VQFN (RGV), Green (RoHS & no Sb/Br), Tape and Reel"
+"U2","RAK11720","TopLayer","RAK11720","100.0000mm","100.0000mm","0","RAK11720 Ambiq Apollo3 Blue SX1262 LoRa Bluetooth Module for LoRaWAN"
+"U1","STLQ020C33R","TopLayer","SOT323-5L_STM","99.0616mm","87.0000mm","0","No Description Available"
+"SW_U2","436333045822","TopLayer","436333045822","120.0000mm","76.0000mm","90",""
+"SW_U1","436333045822","TopLayer","436333045822","120.0000mm","68.0000mm","90",""
+"SW_RST1","436333045822","TopLayer","436333045822","80.0000mm","65.0000mm","270",""
+"R21","RC1005J000CS","TopLayer","RESC1005X40X25LL05T10","103.0000mm","82.0000mm","90","Chip Resistor, 0 Ohm, +/- 5%, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel"
+"R20","RC1005J000CS","TopLayer","RESC1005X40X25LL05T10","104.0000mm","82.0000mm","90","Chip Resistor, 0 Ohm, +/- 5%, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel"
+"R19","RC1005J000CS","TopLayer","RESC1005X40X25LL05T10","105.0000mm","82.0000mm","90","Chip Resistor, 0 Ohm, +/- 5%, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel"
+"R18","RMCF0402FT10K0","TopLayer","FP-RMCF0402-IPC_C","97.1057mm","74.7452mm","180","10kO ±1% 0.063W 0402 Thick Film Chip Resistor AEC-Q200 compliant"
+"R17","RMCF0402FT10K0","TopLayer","FP-RMCF0402-IPC_C","98.0000mm","82.3655mm","90","10kO ±1% 0.063W 0402 Thick Film Chip Resistor AEC-Q200 compliant"
+"R16","RMCF0402FT10K0","TopLayer","FP-RMCF0402-IPC_C","96.0000mm","82.3655mm","90","10kO ±1% 0.063W 0402 Thick Film Chip Resistor AEC-Q200 compliant"
+"R15","RMCF0402FT10K0","TopLayer","FP-RMCF0402-IPC_C","95.9914mm","78.6404mm","0","10kO ±1% 0.063W 0402 Thick Film Chip Resistor AEC-Q200 compliant"
+"R14","RC1005J000CS","TopLayer","RESC1005X40X25LL05T10","106.0000mm","82.0000mm","90","Chip Resistor, 0 Ohm, +/- 5%, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel"
+"R13","RMCF0402FT10K0","TopLayer","FP-RMCF0402-IPC_C","105.0000mm","84.3655mm","90","10kO ±1% 0.063W 0402 Thick Film Chip Resistor AEC-Q200 compliant"
+"R12","RMCF0402FT10K0","TopLayer","FP-RMCF0402-IPC_C","103.0000mm","84.3655mm","90","10kO ±1% 0.063W 0402 Thick Film Chip Resistor AEC-Q200 compliant"
+"R11","MCR01MZPF10R0","TopLayer","FP-MCR01-IPC_C","115.2750mm","68.0000mm","90","Thick Film Chip Resistor, 0402, 10O, 1%, 100ppm/°C, 0.063W, 50V"
+"R10","RMCF0402FT1K00","TopLayer","FP-RMCF0402-IPC_A","89.0000mm","80.0000mm","90","1kO ±1% 0.063W 0402 Thick Film Chip Resistor AEC-Q200 compliant"
+"R9","RMCF0402FT1K00","TopLayer","FP-RMCF0402-IPC_A","87.0000mm","80.0000mm","90","1kO ±1% 0.063W 0402 Thick Film Chip Resistor AEC-Q200 compliant"
+"R8","CRM2512-FX-R100ELF","TopLayer","FP-CRM2512-MFG","112.7000mm","63.9180mm","180","RES 0.1 OHM 1% 2W 2512"
+"R7","MCR01MZPF10R0","TopLayer","FP-MCR01-IPC_C","110.1250mm","68.0000mm","90","Thick Film Chip Resistor, 0402, 10O, 1%, 100ppm/°C, 0.063W, 50V"
+"R6","MCR01MZPF10R0","TopLayer","FP-MCR01-IPC_C","102.5750mm","68.0000mm","90","Thick Film Chip Resistor, 0402, 10O, 1%, 100ppm/°C, 0.063W, 50V"
+"R5","CRM2512-FX-R100ELF","TopLayer","FP-CRM2512-MFG","100.0000mm","63.9180mm","180","RES 0.1 OHM 1% 2W 2512"
+"R4","MCR01MZPF10R0","TopLayer","FP-MCR01-IPC_C","97.4250mm","68.0000mm","90","Thick Film Chip Resistor, 0402, 10O, 1%, 100ppm/°C, 0.063W, 50V"
+"R3","MCR01MZPF10R0","TopLayer","FP-MCR01-IPC_C","89.8750mm","68.0000mm","90","Thick Film Chip Resistor, 0402, 10O, 1%, 100ppm/°C, 0.063W, 50V"
+"R2","CRM2512-FX-R100ELF","TopLayer","FP-CRM2512-MFG","87.3000mm","63.9180mm","180","RES 0.1 OHM 1% 2W 2512"
+"R1","MCR01MZPF10R0","TopLayer","FP-MCR01-IPC_C","84.7250mm","68.0000mm","90","Thick Film Chip Resistor, 0402, 10O, 1%, 100ppm/°C, 0.063W, 50V"
+"J8","61301011121","TopLayer","61301011121","120.0000mm","95.0000mm","90",""
+"J7","61301011121","TopLayer","61301011121","80.0000mm","95.0000mm","90",""
+"J6","61300411121","TopLayer","61300411121","116.0000mm","92.4600mm","90",""
+"J5","61300611121","TopLayer","61300611121","83.8100mm","89.9200mm","270",""
+"J4","1729128","TopLayer","PHOE-1729128-2_V","112.7000mm","56.0000mm","0","PCB Terminal Block, 13.5 A, 400 V, 2-Pin THD, RoHS, Bulk"
+"J3","61300311121","TopLayer","61300311121","87.6200mm","93.6377mm","270",""
+"J2","1729128","TopLayer","PHOE-1729128-2_V","100.0000mm","56.0000mm","0","PCB Terminal Block, 13.5 A, 400 V, 2-Pin THD, RoHS, Bulk"
+"J1","1729128","TopLayer","PHOE-1729128-2_V","87.3000mm","56.0000mm","0","PCB Terminal Block, 13.5 A, 400 V, 2-Pin THD, RoHS, Bulk"
+"D2","150060RS75000","TopLayer","WL-SMCW_0603_150060xx75000","89.0000mm","85.0000mm","90","LED Low-Power Uni-Color Red 630nm 2V 2-Pin Chip 0603(1608Metric) T/R"
+"D1","150060VS75000","TopLayer","WL-SMCW_0603_150060xx75000","87.0000mm","85.0000mm","90","WURTH ELEKTRONIK - 150060VS75000 - LED, Green, SMD, 0603, 30 mA, 2 V, 570 nm"
+"C8","0402ZD104KAT2A","TopLayer","FP-0402-L_1_0_1-W_0_5_0_1-IPC_C","112.7000mm","68.4030mm","0","General Purpose Ceramic Capacitor, 0402, 100nF, 10%, X5R, 15%, 10V"
+"C7","0402ZD104KAT2A","TopLayer","FP-0402-L_1_0_1-W_0_5_0_1-IPC_C","100.0000mm","68.4030mm","0","General Purpose Ceramic Capacitor, 0402, 100nF, 10%, X5R, 15%, 10V"
+"C6","EMK105BJ105KV-F","TopLayer","FP-0402-L_1_0_0_05-W_0_5-IPC_A","106.0000mm","87.0000mm","270","None"
+"C5","0402ZD104KAT2A","TopLayer","FP-0402-L_1_0_1-W_0_5_0_1-IPC_C","104.0023mm","87.0000mm","270","General Purpose Ceramic Capacitor, 0402, 100nF, 10%, X5R, 15%, 10V"
+"C4","C1005X5R1A225K050BC","TopLayer","FP-C1005-050-0_05-IPC_A","96.0000mm","87.0000mm","270","Multilayer Ceramic Capacitors 2.2µF ±10% 10V X5R SMD 0402"
+"C3","EMK105BJ105KV-F","TopLayer","FP-0402-L_1_0_0_05-W_0_5-IPC_A","94.0000mm","87.0000mm","270","None"
+"C2","0402ZD104KAT2A","TopLayer","FP-0402-L_1_0_1-W_0_5_0_1-IPC_C","92.0900mm","87.0000mm","270","General Purpose Ceramic Capacitor, 0402, 100nF, 10%, X5R, 15%, 10V"
+"C1","0402ZD104KAT2A","TopLayer","FP-0402-L_1_0_1-W_0_5_0_1-IPC_C","87.3000mm","68.4030mm","0","General Purpose Ceramic Capacitor, 0402, 100nF, 10%, X5R, 15%, 10V"
